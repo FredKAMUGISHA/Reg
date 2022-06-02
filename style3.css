@@ -1,0 +1,113 @@
+/* @import url(<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">);*/
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";  
+
+
+.container
+    {
+
+        margin-left: 40px;
+        background-color: white;
+        height: 1500px;
+        width: 1160px;
+   
+    }
+.top-part
+    {
+        background-color: rgb(247, 11, 11);
+        width: 1160px;
+        height: 40px;
+        display: flex;
+    }
+ .btn
+    {
+       margin-left: 8px;
+      
+        margin-top: 10px;
+    } 
+
+
+.Change
+    {
+        margin-top: 10px;
+        color: white;
+        margin-left: 780px;
+    }
+.btn a
+    {
+        text-decoration: none; 
+        color: white;
+    }
+
+.downpart
+    {
+        background-color:rgb(239,239,239);
+        height: 500px;
+    }
+
+.logoclass
+    {
+      
+        height: 100px;
+    }
+
+.uplink1
+    {
+      
+        height: 30px;
+        width: 750px;
+        margin-left: 400px;
+        margin-top: -100px;
+    }
+
+.uplink2
+    {
+       
+        height: 30px;
+        width: 750px;
+        margin-left: 400px;
+        margin-top: 30px;
+        
+    }
+
+.uplink1 a
+    {
+        color: rgb(86, 84, 84);
+        text-decoration: none; 
+        font-family: sans-serif;
+        font-size: 13px;
+        margin-left: 10px;
+    }
+
+.uplink1 a:hover
+    {
+        color: rgb(255, 0, 0);
+    }
+
+.uplink2 a 
+    {
+        text-decoration: none;
+        font-family:sans-serif;
+        font-size: 13px;
+        color: black;
+        margin-left: 10px;
+    }
+
+.uplink2 a:hover 
+    {
+        color: rgb(255, 0, 0);
+    }
+    
+.Change input
+    {
+        background: none;
+        color: white;
+        border: none;
+    }
+    .btn input[type="fred"]
+        {
+            margin-left: 130px;
+            width: 100px;
+            margin-bottom: -90px
+        }
+
+    
